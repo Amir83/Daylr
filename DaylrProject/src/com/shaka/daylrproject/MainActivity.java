@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
 	//testamir
 	//ny
 	//En till då
+	//djur
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
