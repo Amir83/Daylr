@@ -8,6 +8,7 @@ public class MainActivity extends Activity {
 	/* shaho This is IT WHAT */
 	/* Kash */
 	/* SSSS */
+	/* I KILL DEEM*/
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
