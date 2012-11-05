@@ -10,6 +10,7 @@ public class MainActivity extends Activity {
 	/* SSSS */
 	/* I KILL DEEM*/
 	/* Den här e hayat 100% Micke*/
+	//testamir
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
