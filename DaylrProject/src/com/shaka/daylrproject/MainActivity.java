@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
 	/* Den här e hayat 100% Micke*/
 	//testamir
 	//ny
+	//En till då
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
