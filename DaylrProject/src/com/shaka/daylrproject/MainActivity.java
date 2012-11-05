@@ -6,6 +6,7 @@ import android.view.Menu;
 
 public class MainActivity extends Activity {
 	/* shaho This is IT WHAT */
+	//ny gört
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
